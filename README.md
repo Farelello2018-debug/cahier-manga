@@ -13,5 +13,7 @@ Une fois installée, l'appli fonctionne sans internet. Les coloriages restent su
 
 ## Mettre à jour
 
-1. Remplacer `index.html` et `art.js`.
+Le site est publié à partir de la branche `gh-pages`.
+
+1. Remplacer `index.html` et `art.js` dans la branche `gh-pages` (et dans `main` pour garder les deux pareilles).
 2. Changer le numéro de `VERSION` dans `sw.js`, pour que les téléphones récupèrent la nouvelle version.
