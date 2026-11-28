@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Matchs TV</string>
+    <string name="hint_url">Adresse de ta playlist M3U (http://…)</string>
+    <string name="load">Charger</string>
+    <string name="hint_search">Rechercher une chaîne…</string>
+    <string name="presets_title">Chaînes gratuites par pays (liste publique iptv-org)</string>
+    <string name="empty">Choisis un pays ou colle l\'adresse de ta playlist, puis appuie sur Charger.</string>
+</resources>
